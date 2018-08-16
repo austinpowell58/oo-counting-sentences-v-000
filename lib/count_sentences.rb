@@ -1,6 +1,7 @@
 require 'pry'
 
 class String
+  attr
 
   def sentence?
     
