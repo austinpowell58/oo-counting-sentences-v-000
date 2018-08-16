@@ -20,9 +20,6 @@ class String
   def count_sentences
     count = self.split([:punct:])
     count.size
-    
-    
-    
-
-  end
+  end 
+  
 end
