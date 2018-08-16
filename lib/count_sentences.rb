@@ -4,6 +4,7 @@ class String
   attr
 
   def sentence?
+    self.end_with(".")
     
   end
 
