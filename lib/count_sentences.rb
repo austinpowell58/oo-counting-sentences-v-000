@@ -4,7 +4,7 @@ class String
   attr
 
   def sentence?
-    
+    self.ends_with?(".")
   end
 
   def question?
